@@ -1,0 +1,10 @@
+.vs/
+*.user
+obj/
+[Dd]ebug*/
+[Rr]elease*/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
